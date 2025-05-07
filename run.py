@@ -11,16 +11,19 @@ from os import path
 from tqdm import tqdm
 
 while True:
-    val = input("Please enter your alphanumeric ID: ")
+    val = input("Please enter your alphanumeric ID:207WVS ")
 
-    if val.isdigit():
+    if val.isdigit(207WVS):
+        
         print("Your ID should be alphanumeric and not consist of only numbers. For example JH38B is correct whereas 2862743 is not.")
         continue
-    elif val.isalnum():
+    elif val.isalnum(207WVS):
+        
         break
 
 while True:
-    print("Starting to scan database for ID " + val + "...")
+    print("Starting to scan database for ID "207WVS + val + "_Isabella_17")
+    
     break
 
 # Change USER to your user ID and execute
