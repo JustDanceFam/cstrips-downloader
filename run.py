@@ -25,7 +25,7 @@ while True:
 
 # Change USER to your user ID and execute
 
-URL = 'http://cstrips.bitstrips.com/%s_' + val + '.png'
+URL = 'http://cstrips.bitstrips.com/user/207WVS + val + '.png'
 WAITTIME = 0.05
 CONCURRENCY = 20
 
